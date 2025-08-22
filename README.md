@@ -1,6 +1,6 @@
 🌦️ Weather Dashboard
 
-A simple and responsive Weather Dashboard that displays real-time weather updates and a 5-day forecast for any city. This project was developed as part of my TechnoHacks Internship (Task-2).
+A simple and responsive Weather Dashboard that displays real-time weather updates and a 5-day forecast for any city. 
 
 🚀 Features:
 
